@@ -12,7 +12,7 @@ int main(){
             evennum++;
         }else{
             oddnum++;
-        
+        }
 
     while(num>0){
         cout << "Enter an integer: ";
